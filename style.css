@@ -9,8 +9,8 @@ input {
 button {
     color: white;
 }
-.container{
-    margin-top: 10px;
+.container-body{
+    margin: 20px 400px;
     text-align: center;
 }
 
